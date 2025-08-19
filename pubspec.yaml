@@ -8,7 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  arcane: ">=5.3.1 <6.0.0"
+  arcane:
+    git: https://github.com/RunnerDu67/arcane.git
   firebase_auth: ">=6.0.0 <7.0.0"
   common_svgs: ">=1.0.0 <2.0.0"
   crypto: ">=3.0.0 <4.0.0"
